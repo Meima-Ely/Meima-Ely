@@ -1,149 +1,68 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+# Meima Ely
 
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
+📍 Kénitra, Maroc | 📧 elymeima9@gmail.com | 📱 00212771346486  
+🎓 Étudiant Master 2 Big Data et Intelligence Artificielle (2024 – 2026)  
+💻 Spécialisation : Data Engineering & Machine Learning  
+🔗 [LinkedIn](https://www.linkedin.com/in/elymeima) | [GitHub](https://github.com/elymeima)
 
-<p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
-</p>
+---
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
+## 🎯 À propos de moi
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
+Je suis étudiant en Master 2 Big Data et Intelligence Artificielle, passionné par l’analyse de données et le développement de modèles prédictifs.  
+J’ai travaillé sur la mise en place de **pipelines de données**, le **web scraping**, et l’**analyse de données**.  
+Je cherche maintenant à appliquer ces compétences dans des **projets réels en entreprise**.  
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Langues :**  
+- Arabe : Langue maternelle  
+- Français : DELF B2  
+- Anglais : Intermédiaire  
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Senior Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+---
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
+## 💼 Expériences
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+**SysKat-Mauritanie** – Stage (Télétravail) | Septembre 2025  
+- Conception d’un **agent RAG local** pour l’analyse de documents PDF/DOCX en mode hors-ligne avec Python.  
+- Automatisation de l’extraction de données depuis **Indeed** via Selenium pour créer une base de données détaillée d’offres d’emploi.  
+- Développement d’une application Web interactive avec **Dash** pour visualiser les tendances.  
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
+**Projets académiques :**  
+- **Prédiction de la ponctualité des commandes** : Modèles supervisés avec Python (Pandas, NumPy, Scikit-Learn) pour prédire si une commande arrivera à temps.  
+- **Web Scraping et Dashboard** : Extraction de données avec BeautifulSoup et API YouTube, visualisation avec Power BI.  
 
+---
 
-**:zap: Recent Activity:**
+## 🛠 Compétences
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-3689483576) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❌ Merged PR [#22](undefined) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-3. ❌ Closed PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-4. 💪 Opened PR [#1](undefined) in [guilyx/aerial-autonomy-stack](https://github.com/guilyx/aerial-autonomy-stack)
-5. 🗣 Commented on [#22](https://github.com/JacopoPan/aerial-autonomy-stack/pull/22#issuecomment-3655059974) in [JacopoPan/aerial-autonomy-stack](https://github.com/JacopoPan/aerial-autonomy-stack)
-<!--END_SECTION:activity-->
+**Langages :** Python, R, C++, Java, SQL, Bash  
+**Data Engineering / Machine Learning :** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow/Keras, Streamlit, TesseractOCR  
+**Cloud & Big Data :** Azure Data Factory, Synapse Analytics, Storage Account  
+**Web Scraping / API :** BeautifulSoup, Selenium, API YouTube  
+**Bases de données :** MySQL, Oracle Database  
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C214%20hrs%2015%20mins-blue)
+---
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-76.5%20million%20lines%20of%20code-blue)
+## 📚 Éducation
 
-**🐱 My GitHub Data** 
+**Master Big Data et Intelligence Artificielle** – ISCAE, Nouakchott, Mauritanie (2024 – 2026)  
+**Licence en Développement Informatique** – Faculté des Sciences, Kénitra, Maroc (2023 – 2024)  
 
-> 📦 406.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1,543 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 92 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-**I'm an Early 🐤** 
+---
 
-```text
-🌞 Morning                960 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-🌆 Daytime                4535 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌃 Evening                3815 commits        █████████░░░░░░░░░░░░░░░░   35.03 % 
-🌙 Night                  1582 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-```
+## 🔗 Projets & Réalisations
 
+- **Agent RAG local pour PDF/DOCX** – Analyse hors-ligne avec Python.  
+- **Pipeline Data & Modèle Prédictif** – Prédiction de la ponctualité des commandes.  
+- **Web Scraping & Dashboard** – Extraction de données et visualisation interactive.  
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+## 🎧 Musique & Hobbies
 
-💬 Programming Languages: 
-TypeScript               5 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
-Markdown                 2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Bash                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Basketball | Cinéma | IoT | Competitive Gaming  
 
-🐱‍💻 Projects: 
-elejeune.xyz             4 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.23 % 
-synod-backend            2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-jinsen                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-synod-frontend           1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-synod                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-```
-
-
- Last Updated on 31/12/2025 12:59:22 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 30 December 2025
-
-Total Time: 2,219 hrs 4 mins
-
-C++                        734 hrs 19 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.09 %
-Python                     339 hrs 23 mins ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.29 %
-Go                         313 hrs 18 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.12 %
-C                          145 hrs 51 mins ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.57 %
-YAML                       116 hrs 7 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.23 %
-Bash                       109 hrs 42 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.94 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-Liked it ?
-
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
-
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
