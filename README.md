@@ -1,68 +1,72 @@
-# Meima Ely
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Meima%20Ely&fontSize=80&fontColor=white" />
+</p>
 
-📍 Kénitra, Maroc | 📧 elymeima9@gmail.com | 📱 00212771346486  
-🎓 Étudiant Master 2 Big Data et Intelligence Artificielle (2024 – 2026)  
-💻 Spécialisation : Data Engineering & Machine Learning  
-🔗 [LinkedIn](https://www.linkedin.com/in/elymeima) | [GitHub](https://github.com/elymeima)
+<h1 align="center">👋 Salut, je suis Meima Ely</h1>
 
----
+<p align="center">
+  <a href="mailto:elymeima9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-elymeima9@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="tel:+222771346486">
+    <img src="https://img.shields.io/badge/Phone-+222%207713%204686-green?style=for-the-badge&logo=whatsapp" alt="Phone"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elymeima">
+    <img src="https://img.shields.io/badge/LinkedIn-elymeima-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/elymeima">
+    <img src="https://img.shields.io/badge/GitHub-elymeima-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
-## 🎯 À propos de moi
+<p align="center">📍 Kénitra, Maroc | Étudiant Master 2 Big Data & Intelligence Artificielle (2024 – 2026)</p>
 
-Je suis étudiant en Master 2 Big Data et Intelligence Artificielle, passionné par l’analyse de données et le développement de modèles prédictifs.  
-J’ai travaillé sur la mise en place de **pipelines de données**, le **web scraping**, et l’**analyse de données**.  
-Je cherche maintenant à appliquer ces compétences dans des **projets réels en entreprise**.  
+### 🎯 À propos de moi
+Passionné par **l'analyse de données**, **le Machine Learning** et **le Data Engineering**.  
+Je travaille sur des pipelines de données, du web scraping et des modèles prédictifs.  
+Actuellement à la recherche de **stages ou projets en entreprise** pour appliquer mes compétences en conditions réelles !
 
 **Langues :**  
-- Arabe : Langue maternelle  
-- Français : DELF B2  
-- Anglais : Intermédiaire  
+🇲🇦 Arabe (Langue maternelle) | 🇫🇷 Français (DELF B2) | 🇬🇧 Anglais (Intermédiaire)
 
----
+### 💼 Expériences & Projets
+- **Stage chez SysKat-Mauritanie** (Télétravail - Septembre 2025)  
+  → Conception d’un **agent RAG local** (analyse PDF/DOCX hors-ligne avec Python)  
+  → Automatisation scraping **Indeed** avec Selenium → Base de données d’offres d’emploi  
+  → Dashboard interactif avec **Dash** pour visualiser les tendances
 
-## 💼 Expériences
+- **Projets académiques**  
+  → **Prédiction de ponctualité des commandes** : Modèles supervisés (Pandas, Scikit-Learn)  
+  → **Web Scraping & Dashboard** : BeautifulSoup + API YouTube → Visualisation Power BI
 
-**SysKat-Mauritanie** – Stage (Télétravail) | Septembre 2025  
-- Conception d’un **agent RAG local** pour l’analyse de documents PDF/DOCX en mode hors-ligne avec Python.  
-- Automatisation de l’extraction de données depuis **Indeed** via Selenium pour créer une base de données détaillée d’offres d’emploi.  
-- Développement d’une application Web interactive avec **Dash** pour visualiser les tendances.  
+### 🛠 Compétences Techniques
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
-**Projets académiques :**  
-- **Prédiction de la ponctualité des commandes** : Modèles supervisés avec Python (Pandas, NumPy, Scikit-Learn) pour prédire si une commande arrivera à temps.  
-- **Web Scraping et Dashboard** : Extraction de données avec BeautifulSoup et API YouTube, visualisation avec Power BI.  
+**Autres :** R, Java, C++, Bash, BeautifulSoup, Matplotlib/Seaborn, MySQL, Oracle DB, Tesseract OCR
 
----
+### 📊 Mes Stats GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elymeima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elymeima&layout=compact&theme=tokyonight"/>
+</p>
 
-## 🛠 Compétences
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elymeima&theme=tokyonight" alt="Streak Stats"/>
+</p>
 
-**Langages :** Python, R, C++, Java, SQL, Bash  
-**Data Engineering / Machine Learning :** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow/Keras, Streamlit, TesseractOCR  
-**Cloud & Big Data :** Azure Data Factory, Synapse Analytics, Storage Account  
-**Web Scraping / API :** BeautifulSoup, Selenium, API YouTube  
-**Bases de données :** MySQL, Oracle Database  
-
----
-
-## 📚 Éducation
-
-**Master Big Data et Intelligence Artificielle** – ISCAE, Nouakchott, Mauritanie (2024 – 2026)  
-**Licence en Développement Informatique** – Faculté des Sciences, Kénitra, Maroc (2023 – 2024)  
-
----
-
-## 🔗 Projets & Réalisations
-
-- **Agent RAG local pour PDF/DOCX** – Analyse hors-ligne avec Python.  
-- **Pipeline Data & Modèle Prédictif** – Prédiction de la ponctualité des commandes.  
-- **Web Scraping & Dashboard** – Extraction de données et visualisation interactive.  
-
----
-
-## 🎧 Musique & Hobbies
-
-Basketball | Cinéma | IoT | Competitive Gaming  
-
----
+### 🎧 Hobbies
+🏀 Basketball | 🎬 Cinéma | 🤖 IoT | 🎮 Competitive Gaming
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
