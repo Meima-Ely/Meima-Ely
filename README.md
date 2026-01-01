@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:elymeima9@gmail.com"><img src="https://img.shields.io/badge/Gmail-elymeima9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/+222771346486"><img src="https://img.shields.io/badge/WhatsApp-+222%2077134686-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/+222771346486"><img src="https://img.shields.io/badge/WhatsApp-+222%20771346486-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/elymeima"><img src="https://img.shields.io/badge/LinkedIn-elymeima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/elymeima"><img src="https://img.shields.io/badge/GitHub-elymeima-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
